@@ -16,7 +16,13 @@ export default [
   },
   {
     name: "Mr. Bigglesworth",
-    description: "A cat that is a demon",
+    description:
+      "A cat that suffered an accident while being cryogenically frozen",
     id: 4,
+  },
+  {
+    name: "Toonces",
+    description: "A cat that though it could drive",
+    id: 5,
   },
 ];
